@@ -1,0 +1,51 @@
+bridge_name,type,city,state,construction_year,material,traffic_load,env_exposure,structural_condition,length_m,width_m,latitude,longitude,route_type,economic_importance,nearest_hospital_km,annual_rainfall_mm,climate_zone,seismic_zone,flood_risk,replacement_cost_crore,source
+Mahatma Gandhi Setu,bridge,Patna,Bihar,1982,concrete,extreme,high,3.5,5575,7.5,25.6093,85.1376,national_highway,critical,2.1,1200,semi-arid,IV,very_high,620.00,NHAI Annual Report 2023
+Vikramshila Setu,bridge,Bhagalpur,Bihar,2001,concrete,heavy,high,5.2,4700,7.5,25.2536,86.9878,national_highway,critical,8.5,1200,semi-arid,IV,very_high,480.00,NHAI Annual Report 2023
+Godavari Bridge,bridge,Rajahmundry,Andhra Pradesh,1974,steel,extreme,severe,3.8,4135,8.8,17.0005,81.7862,national_highway,critical,3.2,1100,tropical,II,high,310.00,CAG Audit 2022
+Pamban Bridge,bridge,Rameswaram,Tamil Nadu,1914,steel,medium,severe,2.1,2065,3.7,9.2881,79.2003,national_highway,critical,12.5,1400,coastal,II,very_high,1200.00,Southern Railway Report 2023
+Bogibeel Bridge,bridge,Dibrugarh,Assam,2018,composite,heavy,high,8.9,4940,18.3,27.4728,94.9120,national_highway,critical,15.2,2900,tropical,V,very_high,5920.00,NHIDCL Report 2023
+Bhupen Hazarika Setu,bridge,Dhola,Assam,2017,composite,heavy,high,9.1,9150,12.9,27.7380,95.2017,national_highway,critical,22.0,2900,tropical,V,very_high,9500.00,NHAI Press 2023
+Naini Bridge Allahabad,bridge,Prayagraj,Uttar Pradesh,1865,masonry,medium,high,2.8,1520,5.2,25.4226,81.8735,city,high,1.2,900,semi-arid,II,very_high,85.00,CAG Audit 2021
+Dufferin Bridge Varanasi,bridge,Varanasi,Uttar Pradesh,1887,masonry,medium,high,2.5,1070,5.8,25.3176,82.9739,national_highway,high,2.5,950,semi-arid,II,high,68.00,UP PWD Report 2022
+Coronation Bridge Teesta,bridge,Sevoke,West Bengal,1941,steel,heavy,severe,3.9,212,7.6,26.8872,88.4760,national_highway,critical,18.5,3200,tropical,IV,very_high,95.00,CAG Audit 2022
+Kolia Bhomora Setu,bridge,Tezpur,Assam,1987,concrete,heavy,high,5.8,3015,7.5,26.7225,92.8082,national_highway,critical,8.2,2800,tropical,V,very_high,240.00,NHAI Annual Report 2023
+Chambal Bridge Dholpur,bridge,Dholpur,Rajasthan,1972,concrete,heavy,low,4.5,356,7.2,26.6947,77.8843,national_highway,high,22.0,650,arid,II,medium,48.00,NHAI Report 2022
+Narmada Bridge Bharuch,bridge,Bharuch,Gujarat,1881,masonry,extreme,medium,2.6,1390,4.9,21.7051,72.9959,national_highway,critical,1.8,950,semi-arid,III,high,92.00,Gujarat PWD 2023
+Zuari Bridge,bridge,Goa,Goa,1986,concrete,heavy,severe,4.8,988,7.3,15.4109,73.9997,national_highway,high,5.5,3000,coastal,III,high,165.00,NHAI Region Office 2023
+Omkareshwar Bridge,bridge,Omkareshwar,Madhya Pradesh,2007,concrete,medium,medium,7.2,430,7.5,22.2454,76.1463,national_highway,medium,12.0,900,semi-arid,II,high,85.00,MP PWD 2022
+Godavari Rail Road Bridge,bridge,Kovvur,Andhra Pradesh,1997,steel,heavy,severe,5.5,2728,15.2,16.9975,81.7306,expressway,critical,4.2,1100,tropical,II,high,420.00,CAG Audit 2023
+Chenab Bridge Reasi,bridge,Reasi,Jammu Kashmir,2022,steel,medium,high,9.8,1315,17.0,33.0778,74.8342,national_highway,critical,35.0,1100,highland,V,low,2800.00,USBRL Project Report 2023
+Brahmputra Bridge Saraighat,bridge,Guwahati,Assam,1962,steel,extreme,severe,4.2,1492,10.8,26.1445,91.6110,national_highway,critical,3.5,1750,tropical,V,very_high,380.00,CAG Audit 2022
+Mahanadi Bridge Cuttack,bridge,Cuttack,Odisha,1870,masonry,heavy,high,2.2,1256,5.5,20.4625,85.8830,national_highway,critical,1.8,1480,tropical,III,very_high,72.00,Odisha PWD 2022
+Subarnarekha Bridge Balasore,bridge,Balasore,Odisha,1978,concrete,heavy,high,4.9,512,7.5,21.5050,86.9320,national_highway,high,8.5,1450,tropical,III,high,68.00,NHAI Annual Report 2022
+NH-66 Coastal Bridge Ratnagiri,bridge,Ratnagiri,Maharashtra,2012,concrete,heavy,severe,7.5,285,12.0,16.9940,73.3120,national_highway,high,6.2,3200,coastal,III,high,145.00,NHAI Region Office 2023
+Rajiv Gandhi Sea Bridge,bridge,Mumbai,Maharashtra,2007,composite,extreme,severe,7.4,1800,24.0,18.9280,72.8050,expressway,critical,4.5,2167,coastal,III,very_high,850.00,MSRDC Report 2023
+Mandovi Bridge Panaji,bridge,Panaji,Goa,1974,concrete,heavy,severe,4.5,814,8.0,15.5057,73.8237,national_highway,high,2.2,3000,coastal,III,medium,95.00,Goa PWD 2022
+K.D. Singh Babu Stadium Flyover,flyover,Lucknow,Uttar Pradesh,2005,concrete,extreme,medium,5.8,920,18.0,26.8467,80.9462,city,critical,2.1,891,semi-arid,II,medium,165.00,UP PWD 2022
+Cantonment Flyover Kanpur,flyover,Kanpur,Uttar Pradesh,2002,concrete,extreme,medium,5.5,780,18.0,26.4499,80.3319,city,high,3.5,850,semi-arid,II,medium,145.00,UP PWD 2022
+Rajiv Chowk Underpass Delhi,flyover,New Delhi,Delhi,2010,concrete,extreme,medium,7.2,480,22.0,28.6315,77.2167,city,critical,0.5,714,semi-arid,IV,low,285.00,Delhi PWD 2023
+Atal Setu Mumbai,bridge,Mumbai,Maharashtra,2024,composite,extreme,severe,9.9,21800,27.0,18.9547,72.8193,expressway,critical,6.5,2167,coastal,III,very_high,17840.00,MSRDC 2024
+Bandra Kurla Connector,flyover,Mumbai,Maharashtra,2003,concrete,extreme,high,6.1,1200,20.0,19.0596,72.8657,city,critical,3.2,2167,coastal,III,medium,285.00,BMC 2022
+Ashok Nagar Flyover Chennai,flyover,Chennai,Tamil Nadu,2015,concrete,extreme,high,7.8,680,20.0,13.0050,80.2142,city,high,2.5,1400,coastal,II,medium,165.00,Chennai Metro 2023
+PVNR Expressway Bridge,bridge,Hyderabad,Telangana,2009,composite,extreme,medium,7.5,2400,24.0,17.3850,78.4867,expressway,critical,5.2,812,semi-arid,II,low,480.00,HMDA 2023
+Raidurg Metro Cable,bridge,Hyderabad,Telangana,2019,steel,light,medium,9.2,320,12.0,17.4321,78.3674,city,high,3.8,812,semi-arid,II,low,380.00,HMRL 2023
+Bannerghatta Road Bridge,bridge,Bangalore,Karnataka,1998,concrete,heavy,high,5.2,420,14.0,12.8990,77.5957,city,high,4.8,972,tropical,II,low,72.00,BBMP 2022
+Tumkur Road Flyover,flyover,Bangalore,Karnataka,2008,concrete,extreme,medium,6.8,1100,20.0,13.0352,77.5210,national_highway,critical,3.5,972,tropical,II,low,215.00,NHAI 2023
+Ambedkar Chowk Flyover Pune,flyover,Pune,Maharashtra,2013,concrete,extreme,medium,7.4,880,20.0,18.5267,73.8481,city,high,2.8,722,semi-arid,III,medium,185.00,PMC 2023
+Bhairavnath Road Bridge,bridge,Ahmedabad,Gujarat,2005,concrete,heavy,medium,6.2,380,16.0,22.9962,72.6010,city,high,3.2,782,arid,III,low,68.00,AMC 2022
+Madhavpura Flyover,flyover,Ahmedabad,Gujarat,2008,concrete,extreme,medium,6.9,1020,20.0,23.0425,72.5896,city,critical,1.5,782,arid,III,low,195.00,BRTS 2023
+Sikar Road ROB,bridge,Jaipur,Rajasthan,2010,concrete,heavy,low,7.2,480,16.0,26.9812,75.7654,national_highway,high,8.5,650,arid,II,low,85.00,Jaipur Municipal 2022
+Kolkata Elevated Santragachi,flyover,Kolkata,West Bengal,2009,concrete,extreme,high,6.5,1800,20.0,22.5858,88.2673,expressway,critical,2.5,1582,tropical,III,very_high,380.00,NHAI 2023
+Nivedita Setu Kolkata,bridge,Kolkata,West Bengal,2007,composite,extreme,severe,6.8,880,20.0,22.5774,88.3198,expressway,critical,3.5,1582,tropical,III,very_high,480.00,KMDA 2023
+Kalindi Kunj Bridge Delhi,bridge,New Delhi,Delhi,2008,concrete,extreme,medium,6.2,520,20.0,28.5425,77.2921,city,critical,2.1,714,semi-arid,IV,high,145.00,Delhi PWD 2023
+Zojila Progress Check NH-1,bridge,Sonmarg,Jammu Kashmir,2015,composite,light,severe,7.5,295,9.0,34.3021,75.2876,national_highway,critical,45.0,800,highland,V,low,485.00,BRO Report 2023
+Rohtang Tunnel Approach,bridge,Manali,Himachal Pradesh,2017,concrete,medium,severe,8.2,180,12.0,32.3715,77.1825,national_highway,critical,28.0,1500,highland,IV,medium,290.00,BRO 2023
+Bhosari Industrial Bridge,bridge,Pune,Maharashtra,2001,concrete,extreme,medium,5.5,420,16.0,18.6298,73.8475,city,high,5.5,722,semi-arid,III,medium,95.00,PCMC 2022
+Pimpri Flyover,flyover,Pune,Maharashtra,2006,concrete,extreme,medium,6.2,860,18.0,18.6284,73.8082,city,high,3.8,722,semi-arid,III,low,165.00,PCMC 2023
+Sardar Vallabhbhai Patel Bridge,bridge,Surat,Gujarat,1972,concrete,extreme,medium,4.2,670,14.0,21.1702,72.8311,national_highway,critical,2.5,1150,tropical,III,high,125.00,Surat Municipal 2022
+Tapi River Bridge NH-48,bridge,Surat,Gujarat,2008,concrete,extreme,medium,6.8,820,20.0,21.1920,72.8340,national_highway,critical,3.2,1150,tropical,III,high,185.00,NHAI 2023
+NH-44 Guna Bridge,bridge,Guna,Madhya Pradesh,1985,concrete,heavy,medium,4.8,480,14.0,24.6474,77.3172,national_highway,high,15.5,850,semi-arid,II,medium,72.00,MP PWD 2022
+Bundelkhand Expressway Flyover,flyover,Jhansi,Uttar Pradesh,2022,concrete,extreme,medium,9.5,1200,22.0,25.4484,78.5685,expressway,critical,18.0,850,semi-arid,II,medium,380.00,UPEIDA 2022
+Ganga Rail Bridge Patna,bridge,Patna,Bihar,1959,steel,extreme,high,3.2,1885,10.6,25.6013,85.1376,national_highway,critical,1.8,1200,semi-arid,IV,very_high,280.00,Indian Railways 2022
+Damodar Highway Bridge Durgapur,bridge,Durgapur,West Bengal,1975,concrete,heavy,high,4.5,520,14.0,23.5204,87.3119,national_highway,high,8.5,1500,tropical,III,high,88.00,NHAI 2022
+Periyar Bridge Ernakulam,bridge,Ernakulam,Kerala,1947,masonry,heavy,severe,3.1,362,8.0,9.9690,76.2835,city,critical,1.2,3000,coastal,III,very_high,92.00,Kerala PWD 2023

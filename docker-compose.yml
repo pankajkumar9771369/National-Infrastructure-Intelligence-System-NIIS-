@@ -1,0 +1,51 @@
+version: '3.8'
+
+# 🇮🇳 NIIS — National Infrastructure Intelligence System
+# Docker: Postgres + ML Service only
+# Backend: run locally with   → cd backend && node src/index.js
+# Frontend: run locally with  → cd frontend && npm run dev
+
+services:
+
+  # ─── PostgreSQL ─────────────────────────────────────────────
+  postgres:
+    image: postgres:15-alpine
+    container_name: smart_city_pg
+    environment:
+      POSTGRES_DB: smart_city
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin123
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./backend/src/db/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql
+      - ./backend/src/db/seed_national.sql:/docker-entrypoint-initdb.d/02_seed.sql
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U admin -d smart_city" ]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    restart: unless-stopped
+
+  # ─── ML Service (FastAPI + scikit-learn + Budget Optimizer) ──
+  ml-service:
+    build:
+      context: ./ml-service
+      dockerfile: Dockerfile
+    container_name: smart_city_ml
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONUNBUFFERED=1
+    healthcheck:
+      test: [ "CMD", "curl", "-f", "http://localhost:8000/health" ]
+      interval: 20s
+      timeout: 10s
+      start_period: 40s
+      retries: 5
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+    name: niis_postgres_data
